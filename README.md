@@ -16,12 +16,16 @@ SQLite3
 
 ## How to run
 Install python
+
 Check python version with ```python --version```
+
 Run ```python expenses_.py``` in the terminal to run the program.
 
 ## Usage
 Start the Expense and Income Tracker.
+
 Follow the on-screen instructions to add transactions, display transaction history, and delete transaction history if needed.
+
 To exit the program, select the "Exit" option from the menu.
 ## Database
 The application uses an SQLite database (transactions.db) to store transaction data. The database is automatically created if it doesn't exist.
