@@ -11,7 +11,9 @@ Delete transaction history.
 
 ## Requirements
 Python 3.x
+
 SQLite3
+
 ## How to run
 Install python
 Check python version with ```python --version```
