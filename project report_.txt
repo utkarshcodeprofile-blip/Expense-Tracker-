@@ -1,0 +1,66 @@
+
+📄 PROJECT REPORT
+
+EXPENSE & INCOME TRACKER (Python + SQLite)
+
+Submitted by: Manak Agarwal
+Roll No.: 25BAI10225
+Course Project: Vityarthi Flipped Course Project
+Acknowledgment
+
+I would like to express my gratitude to everyone who supported me during the development of this project. Their guidance and encouragement helped me complete this project successfully
+
+Abstract
+
+Managing personal finance is an important skill in everyday life. This project, Expense & Income Tracker, is a Python-based console application that helps users record and review financial transactions easily. The system uses SQLite as a lightweight and persistent database to store the data locally. Users can track expenses, income, calculate total balance, and manage transaction history convenientl
+
+Introduction
+
+With increasing digitalization, simple tools for daily financial management have become essential. People need to monitor spending habits in order to save money and control unnecessary expenses.
+
+This project provides:
+
+A terminal-based interface
+
+A local storage database
+
+Real-time financial summary updates
+
+
+The main focus is to create a minimal and effective system that is easy to operate.
+
+Objective
+
+To record expense and income data efficiently
+
+To maintain a local secure financial record
+
+To calculate total income, expenses, and balance automatically
+
+To provide a simple and user-friendly interface
+
+To allow removal of transaction history when neede
+
+Software Requirements
+
+Component	Description
+
+Programming Language	Python 3
+Database	SQLite3
+IDE / Editor	Any (VS Code / PyCharm / IDLE)
+Operating System	Windows / Linux / macOS
+
+System Design
+
+This project follows a simple structure:
+
+1️⃣ User Input — Choose options from menu
+2️⃣ Processing — Insert or fetch data using SQLite
+3️⃣ Output — Show results on the console
+
+
+
+
+database Design
+
+The application automatically creates the following table:
